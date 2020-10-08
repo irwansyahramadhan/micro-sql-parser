@@ -1,4 +1,4 @@
-# Micro SQL - SELECT Parser
+# Micro SQL Parser - SELECTq
 ![alt text](https://github.com/irwwwan/micro-sql-parser/blob/master/images/tokens-lexic.png?raw=true)
 <br/>
 ![alt text](https://github.com/irwwwan/micro-sql-parser/blob/master/images/select-basic-query.PNG?raw=true)
